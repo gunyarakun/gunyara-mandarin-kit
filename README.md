@@ -6,3 +6,6 @@ This is a group of tools and data for Tasuku SUENAGA (a.k.a. Gunyara-kun) to lea
 
 cihai/cihaidata-unihan
 https://github.com/cihai/cihaidata-unihan
+
+nieldlr/Hanzi
+https://github.com/nieldlr/Hanzi
